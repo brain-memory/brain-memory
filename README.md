@@ -40,7 +40,7 @@ Brain Memory is designed to work seamlessly in web browsers that support `localS
   - **Android Browser**: Version 2.1 and above
   - **iOS Safari**: Version 3.2 and above
   - **Chrome for Android**: Supported
-  - **Firfox for Android**: Supported
+  - **Firefox for Android**: Supported
 
 **Unsupported Browsers**
 

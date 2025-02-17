@@ -2,10 +2,10 @@
     Brain Memory - 1.0.0
     Author: Amine Amazou
     Description: A Javascript library designed to simplify and enhance browser local and session storage management, drawing inspiration from the human brain's memory mechanism.
-    Github Link: https://github.com/amine-amazou/brain-memory
+    Github Link: https://github.com/brain-memory/
     Copyright © 2024 amazou
     Licensed under the MIT license.
-    https://github.com/amine-amazou/brain-memory/blob/main/LICENSE
+    https://github.com/brain-memory/blob/main/LICENSE
 */
 
 ;let BrainMemory = (function(window) {

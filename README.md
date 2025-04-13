@@ -54,7 +54,7 @@ You can include Brain Memory in your project using a CDN.
 Add the following script tag to your HTML file:
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/brain-memory@latest/brain-memory/dist/brain-memory.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/brain-memory/brain-memory@latest/dist/brain-memory.js"></script>
 ```
 ---
 
